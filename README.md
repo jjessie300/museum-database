@@ -1,4 +1,4 @@
-COMP 421 final project 
+**COMP 421 final project**
 
 This database systems project involved designing and implementing a database application for a museum. 
 The system allows users to book guided tours, allows the museum to manage their stored artifacts and held exhibitions. 
